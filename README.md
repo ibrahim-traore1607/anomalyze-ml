@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ibrahim-traore1607/anomalyze-ml/main?urlpath=lab/tree/ANOMALYZE_v2.ipynb)
+
 # ANOMALYZE
 
 Application de bureau pour explorer un dataset CSV et repérer ses anomalies.
